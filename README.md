@@ -130,12 +130,11 @@ Part 1 :
 Part 2 :
 
 - Document your findings and important commands.
-
-environment aanmaken : python3 -m venv defun
-environment starten: source devfun/bin/activate
-environment stoppen: deactivate
-voor python te kunnen gebruiken in je environment : pip3 install requests
-Je packages wegschijven zo dat deze kunnen gebruikt worden in een ander environment= pip3 freeze > requirements.txt
+  - environment aanmaken : python3 -m venv defun
+  - environment starten: source devfun/bin/activate
+  - environment stoppen: deactivate
+  - voor python te kunnen gebruiken in je environment : pip3 install requests
+  - Je packages wegschijven zo dat deze kunnen gebruikt worden in een ander environment= pip3 freeze > requirements.txt
 
 Part 3 :
 
