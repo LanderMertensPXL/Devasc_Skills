@@ -26,7 +26,7 @@ Uitleg: Het runnen van de scripts met de nieuw gedownloade tools op je DEVASC_LA
   -Visual studio code
   - scripts downloaden van https://github.com/wleppens/PythonExperiments
 - Task troubleshooting:
-  -In  Visual studio code kreeg ik een error maar na de commands pip install geopy en pip install folium in te geven niet meer.
+  - In  Visual studio code kreeg ik een error maar na de commands pip install geopy en pip install folium in te geven niet meer.
 - Task verification:
   - Voorbeeld dat de scripts werken = Lab1/1.2_voorbeeld.png 
 
