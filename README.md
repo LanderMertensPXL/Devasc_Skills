@@ -1,5 +1,9 @@
 # Devasc_Skills
 
+naam :Lander Mertens
+
+Klas: 2SNEa
+
 Beschrijving en resultaten van Lab 1-7.
 
 Lab1
