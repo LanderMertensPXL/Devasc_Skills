@@ -1,6 +1,6 @@
 # Devasc_Skills
 
-naam :Lander Mertens
+naam: Lander Mertens
 
 Klas: 2SNEa
 
