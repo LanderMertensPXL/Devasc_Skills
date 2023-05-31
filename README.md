@@ -29,6 +29,7 @@ Uitleg: Het runnen van de scripts met de nieuw gedownloade tools op je DEVASC_LA
   -In  Visual studio code kreeg ik een error maar na de commands pip install geopy en pip install folium in te geven niet meer.
 - Task verification:
   - Voorbeeld dat de scripts werken = Lab1/1.2_voorbeeld.png 
+
 1.3	Install different tools/packages on Windows OS (deep dive exercise) ++
 
 Uitleg: het instaleren van de tools op een Windows device
