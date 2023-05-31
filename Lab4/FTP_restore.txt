@@ -1,0 +1,38 @@
+router
+-----------------------------
+
+
+Router(config)#interface gigabitEthernet 0/0
+Router(config-if)#ip address 10.199.66.107 255.255.255.224
+Router(config-if)#no shutdown 
+Router(config)#ip default-gateway  10.199.66.100
+Router(config)#ip route 0.0.0.0 0.0.0.0 10.199.66.100
+Router#copy tftp: running-config
+Router#10.199.64.134
+lab-ra07-c-r03-confg
+
+
+
+
+
+
+
+switch
+--------------------------------
+Switch(config)#interface g0/1
+Switch(config-if)#switchport mode trunk
+Switch(config)#vlan 10
+Switch(config)#interface vlan 10
+Switch(config-if)#ip address 172.16.7.7 255.255.255.240
+Switch(config-if)#end
+Switch#copy tftp: running-config
+10.199.64.134
+lab-ra07-a-sw03-confg
+
+Switch#copy tftp: vlan.dat
+10.199.64.134
+VlanRack7.dat
+
+
+
+
