@@ -6,16 +6,16 @@ Klas: 2SNEa
 
 Beschrijving en resultaten van Lab 1-7.
 
-Lab1
+**Lab 1**
 
 1.1	Install different tools/packages on Ubuntu DEVASC-LABVM:
 
-Uitleg: het instaleren van de tools op de DEVASC-LABVM
+Uitleg: Het instaleren van de tools op de DEVASC-LABVM.
 
 - Task preparation and implementation:
   - DEVASC-LABVM 
 - Task troubleshooting:
-  - Tijdens het instaleren van de Jupyter noteBook kreeg ik een error. Heb dit opgelost door pip install markupsafe==2  te gebruiken
+  - Tijdens het instaleren van de Jupyter noteBook kreeg ik een error. Heb dit opgelost door pip install markupsafe==2 te gebruiken.
 - Task verification:
   - Jupyter NoteBook  = Lab1\notebook_DEVASC_LABVM.png
   - Visual studio code = Lab1\VSC_DEVASC_LABVM.png
@@ -24,7 +24,7 @@ Uitleg: het instaleren van de tools op de DEVASC-LABVM
 
 1.2	Run geopy and timedate Python Scipts on the DEVASC-LABVM using the tools above (1.1):
 
-Uitleg: Het runnen van de scripts met de nieuw gedownloade tools op je DEVASC_LABVM
+Uitleg: Het runnen van de scripts met de nieuw gedownloade tools op je DEVASC_LABVM.
  
 - Task preparation and implementation:
   -Visual studio code
@@ -32,11 +32,11 @@ Uitleg: Het runnen van de scripts met de nieuw gedownloade tools op je DEVASC_LA
 - Task troubleshooting:
   - In  Visual studio code kreeg ik een error maar na de commands pip install geopy en pip install folium in te geven niet meer.
 - Task verification:
-  - Voorbeeld dat de scripts werken = Lab1/1.2_voorbeeld.png 
+  - Voorbeeld dat een script werkt = Lab1/1.2_voorbeeld.png 
 
 1.3	Install different tools/packages on Windows OS (deep dive exercise) ++
 
-Uitleg: het instaleren van de tools op een Windows device
+Uitleg: Het instaleren van de tools op een Windows device.
 
 - Task preparation and implementation:
   - een Windows device   
@@ -50,12 +50,12 @@ Uitleg: het instaleren van de tools op een Windows device
 
 1.4	Install different tools/packages on Ubuntu 22.04.01 LTS (deep dive exercise) ++
 
-Uitleg: het instaleren van de tools op een Ubuntu 20.04.01 machine.
+Uitleg: Het instaleren van de tools op een Ubuntu 20.04.01 machine.
 
 - Task preparation and implementation:
   - ubuntu22.04.01 virtuele machine 
 - Task troubleshooting:
-  - De terminal wou niet openen dus heb ik in de Ubuntu software app de app Terminator gedownload en het werkte terug 
+  - De terminal wou niet openen dus heb ik in de Ubuntu software app de app Terminator gedownload en het werkte terug.
   - Je wordt root door de commando su -
   - Jupyter notebook geïnstalleerd via de website: https://linuxhint.com/install-jupyter-notebook-on-ubuntu-20-04/
 - Task verification:
@@ -65,7 +65,7 @@ Uitleg: het instaleren van de tools op een Ubuntu 20.04.01 machine.
   - Jupyter notebook = Lab1/notebook_ubuntu.png
 
 
-Lab2
+**Lab 2**
 
 Part 2 :Explore API Documentation Using the API Simulator
 
@@ -85,7 +85,7 @@ Uitleg:  Het maken van REST API’s aan de hand van de API-documentatie.
 
 Part 3 :Use Postman to Make API Calls to the API Simulator
 
-uitleg:   Het maken van API calls met Postman.
+uitleg: Het maken van API calls met Postman.
 
 - task preparation and implementation:
   - DEVASC-LABVM
@@ -98,7 +98,7 @@ uitleg:   Het maken van API calls met Postman.
 
 Part 4 :Use Python to Add 100 Books to the API Simulator
 
-Uitleg : Het toevoegen van 100 boeken via een python script met gebruik van de Python faker library
+Uitleg : Het toevoegen van 100 boeken via een python script met gebruik van de Python faker library.
 
 - Task preparation and implementation:
   - DEVASC-LABVM
@@ -110,9 +110,9 @@ Uitleg : Het toevoegen van 100 boeken via een python script met gebruik van de P
   - Add 100 RandomBooks = Lab2/add100RandomBooks.py  +  Lab2/Books100.png
   - Add 100 new books = Lab2/addNewBooks.png
 
-Lab3
+**Lab 3**
 
-Uitleg: Uitleg over de basis commands en de belangrijkste commands van Python
+Uitleg: Uitleg over de basis commands en de belangrijkste commands van Python.
 
 Part 1 :
 
@@ -134,11 +134,11 @@ Part 1 :
 Part 2 :
 
 - Document your findings and important commands.
-  - environment aanmaken : python3 -m venv defun
-  - environment starten: source devfun/bin/activate
-  - environment stoppen: deactivate
-  - voor python te kunnen gebruiken in je environment : pip3 install requests
-  - Je packages wegschijven zo dat deze kunnen gebruikt worden in een ander environment= pip3 freeze > requirements.txt
+  - Environment aanmaken : python3 -m venv defun
+  - Environment starten: source devfun/bin/activate
+  - Environment stoppen: deactivate
+  - Voor python te kunnen gebruiken in je environment : pip3 install requests
+  - Je packages wegschijven zo dat deze kunnen gebruikt worden in een ander environment = pip3 freeze > requirements.txt
 
 Part 3 :
 
@@ -150,9 +150,9 @@ Part 3 :
   - myLocation =Lab3/myLocation.py
   - circleClass = Lab3/circleClass.py
 
-Lab4
+**Lab 4**
 
-Uitleg: het configureer van de switch en de router zo dat deze kunnen connecteren met de FTP-server. Uitzoeken hoe je rap een restore uitvoert.
+Uitleg: Het configureer van de switch en de router zo dat deze kunnen connecteren met de FTP-server. Uitzoeken hoe je rap een restore uitvoert.
 
 - Task preparation and implementation:
   - Netwerkplan = Lab4/PE4.nvdx
@@ -164,9 +164,9 @@ Uitleg: het configureer van de switch en de router zo dat deze kunnen connectere
 - Task verification:
   - Staat op de ftp server.
 
-Lab5
+**Lab 5**
 
-Uitleg: het werken met github, het maken van Unit-tests en het werken met andere data vormen
+Uitleg: Het werken met github, het maken van Unit-tests en het werken met andere data vormen.
 
 - Task preparation and implementation:
   - DEVASC-LABVM
@@ -179,16 +179,16 @@ Uitleg: het werken met github, het maken van Unit-tests en het werken met andere
   - File met screenshots over 3.5.7 = 3.5.7
   - File met screenshots over 3.6.6 = 3.6.6
 
-Lab6
+**Lab 6**
 
-Uitleg: Netmiko scirpts maken aan de hand van commands op single IOS device en multiple IOS devices
+Uitleg: Netmiko scirpts maken aan de hand van commands op single IOS device en multiple IOS devices.
 
 - Task preparation and implementation:
   - Lab4 (de router en de switches)
   - DEVASC-LABVM
   - Visual studio code (aanwezig op de DEVASC-LABVM)
 - Task troubleshooting:
-  - Ik had de fout gemaakt door geen paswoord op mijn machines te zetten waardoor ik geen connectie kon maken. Ook doet mijn switches soms moeilijk met de SSH connectie/
+  - Ik had de fout gemaakt door geen paswoord op mijn machines te zetten waardoor ik geen connectie kon maken. Ook doet mijn switches soms moeilijk met de SSH connectie.
 - Task verification:
   - Sending single show command = Lab6/Send_multiple_configuration_commands.py
   - Sending multiple show commands = Lab6/Send_multiple_show_commands.py
@@ -203,9 +203,9 @@ Uitleg: Netmiko scirpts maken aan de hand van commands op single IOS device en m
   - Execute a script with a Function or classes = Lab6/execute_a_script_with_a_function_or_classes.py
   - Execute a script with a statements (if, ifelse, else) = Lab6/Execute_a_script_with_a_statements.py
 
-Lab7
+**Lab 7**
 
-Uitleg: Het installeren van de CSR100v VM en het gebruik maken van het ynag model,netconf,restconf
+Uitleg: Het installeren van de CSR100v VM en het gebruik maken van het ynag model,netconf,restconf.
 
 - Task preparation and implementation:
   - CSR100v VM
